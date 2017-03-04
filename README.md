@@ -28,6 +28,10 @@ YoutubeCrawler.py
 
 	 - using youtube_dl
 	 - search youtube's video source and update it
+   *** get error : Signature extraction failed
+   	  
+	 - http://askubuntu.com/questions/598200/youdtube-dl-failed-to-extract-signature
+	 - sudo pip install --upgrade youtube-dl  
    
 repeatedly.php
 
